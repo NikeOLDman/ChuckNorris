@@ -1,0 +1,3 @@
+04.10.2022 22:05:34 - nekitos_89@mail.ru - movie - Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+04.10.2022 22:05:48 - sorokin_n_p@gkb5.com - dev - No statement can catch the ChuckNorrisException.
+05.10.2022 11:14:22 - sorokin_n_p@gkb5.com - animal - Chuck Norris once rode a bull, and nine months later it had a calf.

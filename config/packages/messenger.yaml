@@ -3,6 +3,10 @@ framework:
         failure_transport: failed
 
         transports:
+            doctrine:
+                dsn: doctrine://default
+                options:
+                    auto_setup: true
             # https://symfony.com/doc/current/messenger.html#transport-configuration
             async:
                 dsn: '%env(MESSENGER_TRANSPORT_DSN)%'
